@@ -1,11 +1,12 @@
 # 1713606_mii_2026-27
 
-# Projeto
+## Projeto
 pizza
 bla bla bla 
+## Introdução 
 ice tea 
 bla bla bla
 # Descrição
 bla bla bla 
-# Conclusão 
+## Conclusão 
 bla bla bla 
