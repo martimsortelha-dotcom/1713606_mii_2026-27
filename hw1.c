@@ -1,0 +1,1 @@
+#include <stdio.h>void main(){	printf("Hello World\n");	//primeiro programa em C	printf("Martim Moreira\t");// uso do tab 	printf("Informatica Industrial");	printf("\a\a\a\a\a\a\a\a");// emisao de som 	}
