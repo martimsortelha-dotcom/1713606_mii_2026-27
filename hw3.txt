@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main()
+{
+    short int x=32700;
+    printf("x=%hdend%er=p%\n",x,x);
+    
+    char y='M';
+    printf("y=%cend%er=p%\n",y,y);
+	return 0;
+}
