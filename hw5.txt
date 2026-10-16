@@ -1,0 +1,11 @@
+#include <stdio.h>
+extern int y;
+int main()
+{
+	int d=3,f=5;
+	//byte z=22;
+	char x='x';
+	printf("d=%p,f=%p,x=%p\n" ,&d,&f,&x);
+	printf("y=%d ,y");
+	return 0;
+}
